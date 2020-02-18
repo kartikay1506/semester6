@@ -1,0 +1,4 @@
+This is Compiler Design Lab.
+We are studying
+how to count number of characters
+in a word.
