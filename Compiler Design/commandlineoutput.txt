@@ -1,0 +1,21 @@
+1 This
+ 2 is
+ 3 Compiler
+ 4 Design
+ 5 Lab.
+
+6 We
+ 7 are
+ 8 studying
+
+9 how
+ 10 to
+ 11 count
+ 12 number
+ 13 of
+ 14 characters
+
+15 in
+ 16 a
+ 17 word.
+
