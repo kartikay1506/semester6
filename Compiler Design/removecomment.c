@@ -1,6 +1,6 @@
 #include<stdio.h>		//Header File
 
-/* Miain
+/* Main
 Section */
 int main() {
 int a, b;  	// Variable Declaration
